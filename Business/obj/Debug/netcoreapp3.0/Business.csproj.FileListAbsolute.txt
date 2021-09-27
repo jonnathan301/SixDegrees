@@ -1,0 +1,14 @@
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\Business.deps.json
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\Business.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\Business.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\DataAccess.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\Entities.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\DataAccess.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.csprojAssemblyReference.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfoInputs.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfo.cs
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.csproj.CoreCompileInputs.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.csproj.CopyComplete
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Business\obj\Debug\netcoreapp3.0\Business.pdb
