@@ -1,0 +1,12 @@
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\bin\Debug\netcoreapp3.0\Entities.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csproj.CopyComplete
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb
