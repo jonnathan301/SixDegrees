@@ -24,6 +24,7 @@ namespace API
         {
             services.AddTransient<IUsuarioBusiness, UsuarioBusiness>();            
             services.AddScoped<DbContext, SystemDbContext>();
+            services.AddCors(x => { x.AddPolicy("default", z => z.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()); });
             services.AddSwaggerGen(x => { x.SwaggerDoc("v1", new OpenApiInfo { Title = "System", }); });
             services.AddControllers();
         }
@@ -36,6 +37,7 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors("default");
             app.UseSwagger();
             app.UseSwaggerUI(x => { x.SwaggerEndpoint("/swagger/v1/swagger.json", "System"); });
 
