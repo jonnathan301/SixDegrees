@@ -1,0 +1,8 @@
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
