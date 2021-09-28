@@ -6,3 +6,4 @@ F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\En
 F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
 F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.dll
 F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+F:\Pruebas tecnicas\SixDegrees\TechnicalTest\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache

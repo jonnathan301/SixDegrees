@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { IUsuario } from './usuarios';
 
 @Injectable({
   providedIn: 'root'
@@ -8,7 +7,7 @@ import { IUsuario } from './usuarios';
 
 export class AppService {  
 
-
+  
   private _url: string = 'https://localhost:5001/Usuario/GetList';
 
   constructor(private http: HttpClient){ }
@@ -17,7 +16,7 @@ export class AppService {
    /** GET users from the server */ 
    getList() 
    {
-      return this.http.get<IUsuario[]>(this._url)
+      return this.http.get<any>(this._url)
    }
   
 }

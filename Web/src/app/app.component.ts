@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { AppService } from './app.service'
-import { IUsuario } from './usuarios'
+import { Usuario } from './usuarios'
 
 @Component({
   selector: 'app-root',
@@ -11,13 +11,19 @@ import { IUsuario } from './usuarios'
 
 
 export class AppComponent {    
-  IUsuario = [];
+  Usuarios = [];  
+
   constructor(private api:AppService){}
   
-  ngOnInit() 
+  getList() 
   {
-    this.api.getList().subscribe(data => {      
+    this.api.getList().subscribe(data => {  
+      // show data     
       console.log(data);
+      alert(data)
+      this.Usuarios = data;   
+      //let usuario = new Usuario(data);
+      //console.log(usuario)
     })
   }
 }

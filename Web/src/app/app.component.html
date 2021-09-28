@@ -10,12 +10,29 @@
 <div class="content" role="main">
   <input type="hidden" #selection>
   <div class="card-container">
-    <button class="card card-small" (click)="selection.value = 'component'" tabindex="0">
+    <button class="card card-small" (click)="getList()" tabindex="0">
       <svg class="material-icons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/></svg>
       <span>Buscar</span>
     </button>
 
-    <br/>
-    
+    <br/>    
   </div>
+
+  <div class="content" role="main">    
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Nombre</th>
+          <th>Apellido</th>          
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let usuario of Usuarios;index as i; first as isFirst">
+          <td><span>{{i}}/{{Usuarios.length}}. {{usuario}}</span></td>
+          <td><span>{{usuario}}</span></td>
+        </tr>
+      </tbody>
+    </table>    
+    </div>
 </div>
